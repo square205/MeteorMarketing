@@ -14,3 +14,7 @@ raix:handlebar-helpers
 gfk:mailgun-api
 less
 aldeed:collection2
+accounts-base
+accounts-password
+ian:accounts-ui-bootstrap-3
+mizzao:bootstrap-3
